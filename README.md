@@ -18,31 +18,14 @@
 
 ---
 ### Мои навыки:
-![Postman](https://img.shields.io/badge/-Postman-a3a8a8?style=for-the-badge&logo=Postman)
-![Charles](https://img.shields.io/badge/-Charles-a3a8a8?style=for-the-badge&logo=Charles)
-![MySQL](https://img.shields.io/badge/-MySQL-a3a8a8?style=for-the-badge&logo=MySQL)
-![Swagger](https://img.shields.io/badge/-Swagger-a3a8a8?style=for-the-badge&logo=Swagger)
-![Jira](https://img.shields.io/badge/-Jira-a3a8a8?style=for-the-badge&logo=Jira)
-![Android srudio](https://img.shields.io/badge/-Androidsrudio-a3a8a8?style=for-the-badge&logo=Androidsrudio)
-![API](https://img.shields.io/badge/-API-a3a8a8?style=for-the-badge&logo=API)
-![Xcode](https://img.shields.io/badge/-Xcode-a3a8a8?style=for-the-badge&logo=Xcode)
-
-### 💻 Технологии:
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-</a> 
-</p>
+![Postman](https://img.shields.io/badge/-Postman-666969?style=for-the-badge&logo=Postman)
+![Charles](https://img.shields.io/badge/-Charles-666969?style=for-the-badge&logo=Charles)
+![MySQL](https://img.shields.io/badge/-MySQL-666969?style=for-the-badge&logo=MySQL)
+![Swagger](https://img.shields.io/badge/-Swagger-666969?style=for-the-badge&logo=Swagger)
+![Jira](https://img.shields.io/badge/-Jira-666969?style=for-the-badge&logo=Jira)
+![Android srudio](https://img.shields.io/badge/-Androidsrudio-666969?style=for-the-badge&logo=Androidsrudio)
+![API](https://img.shields.io/badge/-API-666969?style=for-the-badge&logo=API)
+![Xcode](https://img.shields.io/badge/-Xcode-666969?style=for-the-badge&logo=Xcode)
 
 ---
 

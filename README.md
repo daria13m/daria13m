@@ -18,14 +18,14 @@
 
 ---
 ### Мои навыки:
-![Postman](https://img.shields.io/badge/-Postman-<COLOR>?style=for-the-badge&logo=Postman)
-![Charles](https://img.shields.io/badge/-Charles-<COLOR>?style=for-the-badge&logo=Charles)
-![MySQL](https://img.shields.io/badge/-MySQL-<COLOR>?style=for-the-badge&logo=MySQL)
-![Swagger](https://img.shields.io/badge/-Swagger-<COLOR>?style=for-the-badge&logo=Swagger)
-![Jira](https://img.shields.io/badge/-Jira-<COLOR>?style=for-the-badge&logo=Jira)
-![Android srudio](https://img.shields.io/badge/-Androidsrudio-<COLOR>?style=for-the-badge&logo=Androidsrudio)
-![API](https://img.shields.io/badge/-API-<COLOR>?style=for-the-badge&logo=API)
-![Xcode](https://img.shields.io/badge/-Xcode-<COLOR>?style=for-the-badge&logo=Xcode)
+![Postman](https://img.shields.io/badge/-Postman-a3a8a8?style=for-the-badge&logo=Postman)
+![Charles](https://img.shields.io/badge/-Charles-a3a8a8?style=for-the-badge&logo=Charles)
+![MySQL](https://img.shields.io/badge/-MySQL-a3a8a8?style=for-the-badge&logo=MySQL)
+![Swagger](https://img.shields.io/badge/-Swagger-a3a8a8?style=for-the-badge&logo=Swagger)
+![Jira](https://img.shields.io/badge/-Jira-a3a8a8?style=for-the-badge&logo=Jira)
+![Android srudio](https://img.shields.io/badge/-Androidsrudio-a3a8a8?style=for-the-badge&logo=Androidsrudio)
+![API](https://img.shields.io/badge/-API-a3a8a8?style=for-the-badge&logo=API)
+![Xcode](https://img.shields.io/badge/-Xcode-a3a8a8?style=for-the-badge&logo=Xcode)
 
 ### 💻 Технологии:
 

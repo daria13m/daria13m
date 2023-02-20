@@ -20,7 +20,7 @@
 ### Мои навыки:
 ![Postman](https://img.shields.io/badge/-Postman-666969?style=for-the-badge&logo=Postman)
 ![Charles](https://img.shields.io/badge/-Charles-666969?style=for-the-badge&logo=Charles)
-![MySQL](https://img.shields.io/badge/-MySQL-666969?style=for-the-badge&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-666969?style=for-the-badge&logo=MySQL&logoColor=0313fc)
 ![Swagger](https://img.shields.io/badge/-Swagger-666969?style=for-the-badge&logo=Swagger)
 ![Jira](https://img.shields.io/badge/-Jira-666969?style=for-the-badge&logo=Jira)
 ![Android srudio](https://img.shields.io/badge/-Androidsrudio-666969?style=for-the-badge&logo=Androidsrudio)

@@ -21,7 +21,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-f2d0a2?style=for-the-badge&logo=Postman)
 ![Charles](https://img.shields.io/badge/-Charles-f2d0a2?style=for-the-badge&logo=Charles)
 ![MySQL](https://img.shields.io/badge/-MySQL-f2d0a2?style=for-the-badge&logo=MySQL&logoColor=0313fc)
-![Swagger](https://img.shields.io/badge/-Swagger-f2d0a2?style=for-the-badge&logo=Swagger)
+![Swagger](https://img.shields.io/badge/-Swagger-f2d0a2?style=for-the-badge&logo=Swagger&logoColor=25cc04)
 ![Jira](https://img.shields.io/badge/-Jira-f2d0a2?style=for-the-badge&logo=Jira)
 ![Android srudio](https://img.shields.io/badge/-Androidsrudio-f2d0a2?style=for-the-badge&logo=Androidsrudio)
 ![API](https://img.shields.io/badge/-API-f2d0a2?style=for-the-badge&logo=API)

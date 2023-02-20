@@ -3,7 +3,7 @@
 
 ---
 
-### : woman_technologist: Обо мне:
+### : Обо мне:
 
 Я ручной тестировщик мобильных и веб-приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Последние полгода получала опыт посредством курса «Инженер по тестированию» от Яндекс Практикума. Изучила тестирование мобильных и веб-приложений в теории и закрепила знания на практике – тестирование веб-приложений Яндекс Маршруты, Яндекс Прилавок, Яндекс Самокат и мобильных приложений Яндекс Метро, Яндекс Самокат (приложение курьера). Процесс тестирования сопровождался использованием различных видов тестирования, техник тест-дизайна и составление документации (mindmap, чек-листы, тест-кейсы, баг-репорты). Проводила тестирование front-end’а / backend’а, APi приложения (Postman, Charles), а также работала с трекенговыми системами – Jira, Яндекс Трекер. Знаю основы agile (Скрам, Канбан).
 
@@ -33,12 +33,6 @@
 
 ### 💻 Технологии:
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
@@ -53,16 +47,6 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
 </a> 
 </p>
-
----
-
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  
-</div>
 
 ---
 

@@ -3,7 +3,7 @@
 
 ---
 
-### : Обо мне:
+### Обо мне:
 
 Я ручной тестировщик мобильных и веб-приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Получила опыт посредством курса «Инженер по тестированию» от Яндекс Практикума. Изучила тестирование мобильных и веб-приложений в теории и закрепила знания на практике – тестирование веб-приложений Яндекс Маршруты, Яндекс Прилавок, Яндекс Самокат и мобильных приложений Яндекс Метро, Яндекс Самокат (приложение курьера). Процесс тестирования сопровождался использованием различных видов тестирования, техник тест-дизайна и составление документации (mindmap, чек-листы, тест-кейсы, баг-репорты). Проводила тестирование front-end’а / backend’а, APi приложения (Postman, Charles), а также работала с трекенговыми системами – Jira, Яндекс Трекер. Знаю основы agile (Скрам, Канбан).
 
@@ -17,9 +17,15 @@
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-mezentsevadaria-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/daria_mezentseva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mezentseva.daria96@gmail.com)
 
 ---
-### My Skills:
+### Мои навыки:
 ![Postman](https://img.shields.io/badge/-Postman-<COLOR>?style=for-the-badge&logo=Postman)
-
+![Charles](https://img.shields.io/badge/-Charles-<COLOR>?style=for-the-badge&logo=Charles)
+![MySQL](https://img.shields.io/badge/-MySQL-<COLOR>?style=for-the-badge&logo=MySQL)
+![Swagger](https://img.shields.io/badge/-Swagger-<COLOR>?style=for-the-badge&logo=Swagger)
+![Jira](https://img.shields.io/badge/-Jira-<COLOR>?style=for-the-badge&logo=Jira)
+![Android srudio](https://img.shields.io/badge/-Androidsrudio-<COLOR>?style=for-the-badge&logo=Androidsrudio)
+![API](https://img.shields.io/badge/-API-<COLOR>?style=for-the-badge&logo=API)
+![Xcode](https://img.shields.io/badge/-Xcode-<COLOR>?style=for-the-badge&logo=Xcode)
 
 ### 💻 Технологии:
 
